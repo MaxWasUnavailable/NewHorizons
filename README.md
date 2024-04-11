@@ -1,3 +1,3 @@
-# SoDTemplate
+# New Horizons
 
-Simple template for a Shadows of Doubt mod.
+A NewGame+ mod for Shadows of Doubt.
