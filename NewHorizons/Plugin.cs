@@ -4,10 +4,10 @@ using BepInEx.Logging;
 using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
 
-namespace SoDTemplate;
+namespace NewHorizons;
 
 /// <summary>
-///     Main plugin class for SoDTemplate.
+///     Main plugin class for NewHorizons.
 /// </summary>
 [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
 [SuppressMessage("Class Declaration",
