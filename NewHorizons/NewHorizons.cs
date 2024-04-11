@@ -12,7 +12,7 @@ namespace NewHorizons;
 [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
 [SuppressMessage("Class Declaration",
     "BepInEx002:Classes with BepInPlugin attribute must inherit from BaseUnityPlugin")]
-public class Plugin : BasePlugin
+public class NewHorizons : BasePlugin
 {
     private bool _isPatched;
     private Harmony? Harmony { get; set; }
@@ -21,7 +21,7 @@ public class Plugin : BasePlugin
     /// <summary>
     ///     Singleton instance of the plugin.
     /// </summary>
-    public static Plugin? Instance { get; private set; }
+    public static NewHorizons? Instance { get; private set; }
 
     /// <summary>
     ///     Loads the plugin.
