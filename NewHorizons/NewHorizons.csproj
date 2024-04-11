@@ -2,10 +2,10 @@
     <PropertyGroup>
         <!-- General Project Information -->
         <TargetFramework>net6.0</TargetFramework>
-        <AssemblyName>MaxWasUnavailable.SoDTemplate</AssemblyName>
-        <PackageId>MaxWasUnavailable.SoDTemplate</PackageId>
-        <Title>MaxWasUnavailable's SoD Template</Title>
-        <Description>A template for Shadows of Doubt mods.</Description>
+        <AssemblyName>MaxWasUnavailable.NewHorizons</AssemblyName>
+        <PackageId>MaxWasUnavailable.NewHorizons</PackageId>
+        <Title>MaxWasUnavailable's New Horizons</Title>
+        <Description>A NewGame+ mod for Shadows of Doubt.</Description>
         <Version>1.0.0</Version>
         <Authors>MaxWasUnavailable</Authors>
         <PackageTags>shadows;of;doubt;bepinex</PackageTags>
@@ -13,8 +13,8 @@
         <!-- Package Information -->
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageLicenseExpression>LGPL-3.0-or-later</PackageLicenseExpression>
-        <PackageProjectUrl>https://github.com/MaxWasUnavailable/SoDTemplate</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/MaxWasUnavailable/SoDTemplate</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/MaxWasUnavailable/NewHorizons</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/MaxWasUnavailable/NewHorizons</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
 
         <!-- Build Information -->

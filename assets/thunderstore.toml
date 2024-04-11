@@ -3,9 +3,9 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "MaxWasUnavailable"
-name = "SoDTemplate"
+name = "NewHorizons"
 description = ""
-websiteUrl = "https://github.com/MaxWasUnavailable/SoDTemplate"
+websiteUrl = "https://github.com/MaxWasUnavailable/NewHorizons"
 containsNsfwContent = false
 [package.dependencies]
 BepInEx-BepInExPack_IL2CPP = "6.0.667"
@@ -24,8 +24,8 @@ source = "../CHANGELOG.md"
 target = "/"
 
 [[build.copy]]
-source = "../SoDTemplate/bin/Release/net6.0/MaxWasUnavailable.SoDTemplate.dll"
-target = "/BepInEx/plugins/SoDTemplate/"
+source = "../NewHorizons/bin/Release/net6.0/MaxWasUnavailable.NewHorizons.dll"
+target = "/BepInEx/plugins/NewHorizons/"
 
 [publish]
 communities = ["shadows-of-doubt", ]
